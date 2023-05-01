@@ -1,0 +1,72 @@
+{
+    "sequence": [
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:12:58.139449.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:00.786988.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:04.508353.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:06.660016.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:09.780174.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:12.020883.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:16.933361.jpg",
+            "action": "right"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:19.781729.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:22.358667.jpg",
+            "action": "right"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:24.278716.jpg",
+            "action": "right"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:26.142947.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:27.991241.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:29.664154.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:30.935831.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:32.431748.jpg",
+            "action": "left"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:34.256369.jpg",
+            "action": "forward"
+        },
+        {
+            "photo": "./samples/sequence_11/2023-04-30 11:13:36.672686.jpg",
+            "action": "forward"
+        }
+    ]
+}
